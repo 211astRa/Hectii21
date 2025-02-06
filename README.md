@@ -29,8 +29,10 @@
 - 📝 **Python & Bash Scripting para automatización**  
 
 ### **📚 Certificaciones & Formación**
-- 📌 **Curso de Especialización en Ciberseguridad**  
-- 🏆 Preparándome para la certificación **OSCP**  
+- 🛡️ **Curso de Especialización en Ciberseguridad en Tecnologías de la Información(CETI)**
+- 🌐 **Administración de Sistemas Informáticos en Red (ASIR)**
+- 🏆 Preparándome para la certificación **OSCP**
+- 🏅 [Credly](https://www.credly.com/users/astra211)
 
 ---
 
